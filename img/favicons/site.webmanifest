@@ -1,0 +1,15 @@
+{
+    "name": "Borys Kotanskii",
+    "short_name": "Borys Kotanskii",
+    "icons": [
+        {
+            "src": "/img/favicons/android-chrome-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "start_url": "http://stw.ryerson.ca/~bkotansk/",
+    "display": "standalone"
+}
